@@ -18,3 +18,5 @@
   - [Zigbee Buttons](https://github.com/hxcde/hassdevicelist/blob/main/Outlet/Zigbee%20Outlet)
 - [IR Remotes](https://github.com/hxcde/hassdevicelist/tree/main/IR%20Remote%20Controller)
 - [Adapters & Dongles](https://github.com/hxcde/hassdevicelist/tree/main/Adapters%20%26%20Dongles)
+  - [Zigbee Dongles](https://github.com/hxcde/hassdevicelist/blob/main/Adapters%20%26%20Dongles/Zigbee%20Dongles)
+  - [Thread Dongles](https://github.com/hxcde/hassdevicelist/blob/main/Adapters%20%26%20Dongles/Thread%20Dongle)
