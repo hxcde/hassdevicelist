@@ -18,6 +18,8 @@
   - [Zigbee Buttons](https://github.com/hxcde/hassdevicelist/blob/main/Outlet/Zigbee%20Outlet)
 - [IR Remotes](https://github.com/hxcde/hassdevicelist/tree/main/IR%20Remote%20Controller)
   - [Controllers](https://github.com/hxcde/hassdevicelist/blob/main/IR%20Remote%20Controller/Controller)
+- [Smoke Detectors](https://github.com/hxcde/hassdevicelist/tree/main/Smoke%20Detectors)
+  - [Zigbee Smoke Detectors](https://github.com/hxcde/hassdevicelist/blob/main/Smoke%20Detectors/Zigbee%20Smoke%20Detectors)
 - [Adapters & Dongles](https://github.com/hxcde/hassdevicelist/tree/main/Adapters%20%26%20Dongles)
   - [Zigbee Dongles](https://github.com/hxcde/hassdevicelist/blob/main/Adapters%20%26%20Dongles/Zigbee%20Dongles)
   - [Thread Dongles](https://github.com/hxcde/hassdevicelist/blob/main/Adapters%20%26%20Dongles/Thread%20Dongle)
