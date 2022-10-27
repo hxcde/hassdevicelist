@@ -4,5 +4,6 @@
 - [Lights](https://github.com/hxcde/hassdevicelist/tree/main/Light)
 - [Outlets](https://github.com/hxcde/hassdevicelist/tree/main/Outlet)
 - [Motion Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Motion%20Sensor)
+- [Contact Sensor](https://github.com/hxcde/hassdevicelist/tree/main/Contact%20Sensors)
 - [IR Remotes](https://github.com/hxcde/hassdevicelist/tree/main/IR%20Remote%20Controller)
 - [Media](https://github.com/hxcde/hassdevicelist/tree/main/Media)
