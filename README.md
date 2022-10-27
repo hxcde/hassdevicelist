@@ -6,6 +6,8 @@
   - [WIFI Bulbs](https://github.com/hxcde/hassdevicelist/blob/main/Light/WIFI%20bulbs)
   - [Zigbee Bulbs](https://github.com/hxcde/hassdevicelist/blob/main/Light/Zigbee%20bulbs)
 - [Outlets](https://github.com/hxcde/hassdevicelist/tree/main/Outlet)
+  - [WIFI Outlet](https://github.com/hxcde/hassdevicelist/blob/main/Outlet/Wifi%20Outlet)
+  - [Zigbee Outlet](https://github.com/hxcde/hassdevicelist/blob/main/Outlet/Zigbee%20Outlet)
 - [Media](https://github.com/hxcde/hassdevicelist/tree/main/Media)
 - [Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Sensors)
   - [Motion Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Sensors/Motion%20Sensor)
