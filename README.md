@@ -15,6 +15,8 @@
 - [Outlets](https://github.com/hxcde/hassdevicelist/tree/main/Outlet)
   - [WIFI Outlet](https://github.com/hxcde/hassdevicelist/blob/main/Outlet/Wifi%20Outlet)
   - [Zigbee Outlet](https://github.com/hxcde/hassdevicelist/blob/main/Outlet/Zigbee%20Outlet)
+- [Switches](https://github.com/hxcde/hassdevicelist/blob/main/Switches]
+  - [WIFI Relays](https://github.com/hxcde/hassdevicelist/blob/main/Switches/WIFI%20Relays)
 - [Media](https://github.com/hxcde/hassdevicelist/tree/main/Media)
   - [Audio](https://github.com/hxcde/hassdevicelist/blob/main/Media/Audio)
   - [Video](https://github.com/hxcde/hassdevicelist/blob/main/Media/Video)
