@@ -6,6 +6,9 @@
 - [Home Assitant Host](https://github.com/hxcde/hassdevicelist/tree/main/HASS%20Host)
   - [Hardware](https://github.com/hxcde/hassdevicelist/blob/main/HASS%20Host/Hardware)
   - [Virtual](https://github.com/hxcde/hassdevicelist/blob/main/HASS%20Host/Virtual%20Host)
+- [Adapters & Dongles](https://github.com/hxcde/hassdevicelist/tree/main/Adapters%20%26%20Dongles)
+  - [Zigbee Dongles](https://github.com/hxcde/hassdevicelist/blob/main/Adapters%20%26%20Dongles/Zigbee%20Dongles)
+  - [Thread Dongles](https://github.com/hxcde/hassdevicelist/blob/main/Adapters%20%26%20Dongles/Thread%20Dongle)
 
 ### Devices to connect to Home Assistant
 - [Lights](https://github.com/hxcde/hassdevicelist/tree/main/Light)
@@ -29,6 +32,3 @@
   - [Controllers](https://github.com/hxcde/hassdevicelist/blob/main/IR%20Remote%20Controller/Controller)
 - [Smoke Detectors](https://github.com/hxcde/hassdevicelist/tree/main/Smoke%20Detectors)
   - [Zigbee Smoke Detectors](https://github.com/hxcde/hassdevicelist/blob/main/Smoke%20Detectors/Zigbee%20Smoke%20Detectors)
-- [Adapters & Dongles](https://github.com/hxcde/hassdevicelist/tree/main/Adapters%20%26%20Dongles)
-  - [Zigbee Dongles](https://github.com/hxcde/hassdevicelist/blob/main/Adapters%20%26%20Dongles/Zigbee%20Dongles)
-  - [Thread Dongles](https://github.com/hxcde/hassdevicelist/blob/main/Adapters%20%26%20Dongles/Thread%20Dongle)
