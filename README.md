@@ -9,6 +9,8 @@
   - [WIFI Outlet](https://github.com/hxcde/hassdevicelist/blob/main/Outlet/Wifi%20Outlet)
   - [Zigbee Outlet](https://github.com/hxcde/hassdevicelist/blob/main/Outlet/Zigbee%20Outlet)
 - [Media](https://github.com/hxcde/hassdevicelist/tree/main/Media)
+  - [Audio](https://github.com/hxcde/hassdevicelist/blob/main/Media/Audio)
+  - [Video](https://github.com/hxcde/hassdevicelist/blob/main/Media/Video)
 - [Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Sensors)
   - [Motion Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Sensors/Motion%20Sensor)
   - [Contact Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Sensors/Contact%20Sensors)
