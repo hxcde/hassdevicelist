@@ -3,6 +3,7 @@
 ### List of best stable Home Assistant Devices
 #### Devices to run Home Assistant
 - [Host Hardware](https://github.com/hxcde/hassdevicelist/tree/main/HASS%20Host)
+  - [Devices](https://github.com/hxcde/hassdevicelist/blob/main/HASS%20Host/Hardware)
 
 #### Devices to connect to Home Assistant
 - [Lights](https://github.com/hxcde/hassdevicelist/tree/main/Light)
