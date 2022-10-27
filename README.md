@@ -1,6 +1,10 @@
 # hassdevicelist
 ## <img src="https://user-images.githubusercontent.com/30338980/182615356-dc7939d6-634e-4f91-b0ba-ee5533332212.png" width="57" /> 
 ### List of best stable Home Assistant Devices
+#### Devices to run Home Assistant
+- [Host Hardware](https://github.com/hxcde/hassdevicelist/tree/main/HASS%20Host)
+
+#### Devices to connect to Home Assistant
 - [Lights](https://github.com/hxcde/hassdevicelist/tree/main/Light)
   - [Lightstrips](https://github.com/hxcde/hassdevicelist/blob/main/Light/Lightstrips)
   - [WIFI Bulbs](https://github.com/hxcde/hassdevicelist/blob/main/Light/WIFI%20bulbs)
