@@ -7,3 +7,4 @@
 - [Contact Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Contact%20Sensors)
 - [IR Remotes](https://github.com/hxcde/hassdevicelist/tree/main/IR%20Remote%20Controller)
 - [Media](https://github.com/hxcde/hassdevicelist/tree/main/Media)
+- [Adapters & Dongles](https://github.com/hxcde/hassdevicelist/tree/main/Adapters%20%26%20Dongles)
