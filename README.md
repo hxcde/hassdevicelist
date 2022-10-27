@@ -7,5 +7,6 @@
 - [Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Sensors)
   - [Motion Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Sensors/Motion%20Sensor)
   - [Contact Sensors](https://github.com/hxcde/hassdevicelist/tree/main/Sensors/Contact%20Sensors)
+- [Buttons](https://github.com/hxcde/hassdevicelist/tree/main/Buttons)
 - [IR Remotes](https://github.com/hxcde/hassdevicelist/tree/main/IR%20Remote%20Controller)
 - [Adapters & Dongles](https://github.com/hxcde/hassdevicelist/tree/main/Adapters%20%26%20Dongles)
